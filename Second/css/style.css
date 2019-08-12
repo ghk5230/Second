@@ -84,6 +84,7 @@ body{
 .content3{
 	width:100%;
 	height: auto;
+	display: flex;
 }
 .space31{
 	width:33.3333333%;
@@ -100,11 +101,7 @@ body{
 	text-align: left;
 	width:30%;
 }
-.space31{
-	width:33.3333333%;    
-	height: auto;
-    float: left;
-}
+
 .second{
 	color: green;
 }
@@ -146,20 +143,6 @@ body{
   font-size: 16px;
 }
 .para31{
-	width: 10px;
-	font-size: 10px;
-	height: auto;
-	float: left;
-	text-align: left;
+	
 	color: white;
-}
-.space32{
-	width:33.3333333%;    
-	height: auto;
-    float: left;	
-}
-.space33{
-	width:33.3333333%;    
-	height: auto;
-    float: right;
 }
